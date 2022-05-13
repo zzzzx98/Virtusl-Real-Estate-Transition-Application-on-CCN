@@ -3,8 +3,11 @@ Final project for ELEN6883, the instructor is Prof. Chong Li, we designed Virtus
 
 ##  requirement:
 nodejs 16.15.0
+
 solidity 0.5.16
+
 Hardhat
+
 npm
 
 ## Start
