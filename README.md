@@ -18,6 +18,5 @@ npm run serve
 ```
 
 ##  Demo show:
-<p align="center">
-  < img width="460" height="300" src="https://github.com/zzzzx98/Virtusl-Real-Estate-Transition-Application-on-CCN/blob/main/demo.png">
-</p >
+<img width="1275" alt="demo" src="https://user-images.githubusercontent.com/93566978/168241607-45281f1d-22b1-4365-9b6d-94c172f236ff.png">
+
